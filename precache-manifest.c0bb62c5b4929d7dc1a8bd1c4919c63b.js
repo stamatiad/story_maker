@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/story_maker/static/js/runtime~main.2c0617dc.js"
   },
   {
-    "revision": "77b70e21312e481e1557",
-    "url": "/story_maker/static/js/main.fa235882.chunk.js"
+    "revision": "eb3b564eea632e755b05",
+    "url": "/story_maker/static/js/main.142071bb.chunk.js"
   },
   {
     "revision": "d987c6aa6e883358221a",
     "url": "/story_maker/static/js/2.a355c7d4.chunk.js"
   },
   {
-    "revision": "77b70e21312e481e1557",
+    "revision": "eb3b564eea632e755b05",
     "url": "/story_maker/static/css/main.10f33190.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/story_maker/static/css/2.b49d483e.chunk.css"
   },
   {
-    "revision": "bf7c103f739661cc6c647b51b99b5e05",
+    "revision": "d9d141040e13fe0615ce5da46648f986",
     "url": "/story_maker/index.html"
   }
 ];
